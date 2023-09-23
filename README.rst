@@ -17,7 +17,7 @@ Latest News
 
 
 What is Transformer Engine?
-==================
+===========================
 .. overview-begin-marker-do-not-remove
 
 Transformer Engine (TE) is a library for accelerating Transformer models on NVIDIA GPUs, including
@@ -163,7 +163,7 @@ TensorFlow
 .. overview-end-marker-do-not-remove
 
 Installation
-----------
+------------
 .. installation
 
 In the NGC container
@@ -200,7 +200,7 @@ errors during the installation of TransformerEngine. To circumvent the issue, pl
 proceed to install a supported version of Flash Attention 1 (v1.0.6 to v1.0.9).
 
 Model Support
-----------
+-------------
 
 While the more granular modules in Transformer Engine allow building any Transformer architecture,
 the `TransformerLayer` API of Transformer Engine is flexible enough to build multiple major
